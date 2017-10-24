@@ -1,5 +1,4 @@
-# linux-app-svc-perf
-Demonstrate Linux App Service performance.
+# Demonstrate Linux App Service performance.
 
 POST 16KB payload to httpServer endpoint.
 
